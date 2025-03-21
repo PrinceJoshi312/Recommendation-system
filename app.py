@@ -2,8 +2,6 @@ import streamlit as st
 import pickle
 
 import gdown
-import os
-
 
 # Google Drive File ID (Replace with your actual File ID)
 FILE_ID = "1D013wiAbMWBv-2uQgkdm4PBynyeaiZqC"
